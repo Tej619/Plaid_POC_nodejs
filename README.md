@@ -17,8 +17,8 @@ This project allows users to link their bank accounts using Plaid's authenticati
 1. Clone the repository:
 
 ```bash
-git clone 
-cd nodejs-plaid
+git clone https://github.com/Tej619/Plaid_POC_nodejs.git
+
 ```
 
 2. Install the necessary dependencies:
